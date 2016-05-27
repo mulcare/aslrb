@@ -1,0 +1,38 @@
+
+A.1 Personnel Counters
+
+1.1 There are two kinds of Personnel counters with several varieties of each. The values of each unit will vary from one nationality to another and are listed on the National Capabilities Chart (A25).
+
+1.11 Single-Man Counter (SMC): SMC are elite [EXC: Partisans] units which bear a single silhouette and represent just one man. There are two types of SMC: leader and hero. Each is described in detail later.
+
+1.12 Multi-Man Counter (MMC): MMC are units which bear the silhouette of more than one man and represent a number of men who perform as a group. There are three types of MMC: squad, HS, and crew. A vehicles inherent crew is not a MMC until it leaves the vehicles and takes the form of a counter.
+
+1.121 Squad: A squad counter bears the silhouette of three men, and for game purposes represents approximately ten men, although historically the squad might range in size from seven to 15 men (depending upon nationality, date, and circumstances). Each nationality has at least three types of squads [EXC: Partisans] defined as either Elite, First Line, Second Line, Green, or Conscript.
+
+1.122 Half-Squad (HS): A HS counter bears the silhouette of two men and represents roughly five men who perform as a group. A HS comes into play when a squad is Reduced or Deploys into two HS. A broken HS has a printed Morale Level one < that assigned to a broken squad of the same Class and nationality. [EXC: Japanese elite and 1st line HS have the same broken Morale Level as a squad].
+
+1.123 Crew: A crew counter bears the silhouette of two kneeling men and represents roughly five men with special training who perform as a group to operate special weapon counters. A crew also represents picked men who are the best of their company regardless of the Moral Level as evidenced by their Self-Rally capability (10.63). As such, Infantry crew counters are always considered elite troops with a printed Morale Level equal to that of their nationality's Good Order elite squads as well as FP and Range factors of two. This Strength Factor serves to differentiate Infantry crew counters from dismounted vehicular (and thus non-elite) crew counters (D5.1).
+
+1.2 MMC Capabilities: Each MMC and hero counter contains a three-digit hyphenated number called its Strength Factor which quantifies its capabilities in the game.
+
+1.21 Firepower (FP): The leftmost number of the Strength Factor represents the FP it can attack with in combat prior to any modification. The numerical exponent listed after the FP number on some squad types is the Smoke Placement Exponent (24.1). If the FP number is underlined, the unit may use the Assault FP bonus (7.36) during its AFPh. Leaders, although Armed, have no inherent FP.
+
+1.22 Range: the middle number of the Strength Factor is the number of hexes away from the hex occupied by that unit which it can reach with its FP under normal conditions (hereafter referred to as Normal Range). The range to a target is always the least number of hexes from the firing hex to the target hex (inclusive of only the latter), regardless of the actual number of hexes crossed by the LOS. If the Range number is underlined, the unit may use the Spraying Fire Option (7.34). Leaders have no Normal Range.
+
+1.23 Morale: The third number of the Strength Factor is the relative rating of a unit's ability to withstand punishment before "breaking". This Morale Level is the point at which its will to survive overcomes discipline and, consequently, the player's control over the unit. When this point is exceeded during a MC the unit is flipped over to its broken side (see 10.4). If the Morale Number is underlined, the unit is give an ELR of 5 and if subject to ELR failure (19.13) is either Replaced by two broken HS (if a squad) or Disrupted (if a HS) [EXC: SSR-defined units; 19.132].
+
+1.24 Identity: A letter follows the Strength Factor of each squad or HS to provide a means of distinguishing it from similar units. Crews are identified by a numeral above the silhouette. A corresponding alphanumeric symbol is also listed on the back (broken) side of each unit.
+
+1.25 Class: Every Squad/HS contains a letter or number in the upper right-hand corner which defines its Class, ranging in descending order from : E (Elite), 1 (1st Line), 2 (2nd Line), G(Green), C(Conscript). Occasionally a circle or square encases the letter/number to differentiate between different types of the same Class (see A25: National Capabilities chart). These Classes are important in that they affect a unit's capabilities and also determine what units can be substituted for them during Deployment, ELR, Replacement, or Battle Hardening.
+
+1.3 Component Parts: Whenever a squad must be replaced by one or two HS, the component HS must be the corresponding HS for that Class and type as listed on the A25 chart and represented by the same Class/type symbol. Any excess FP, Range, or Morale lost in the exchange are forfeit due to the lessened confidence and efficiency of a split squad.
+
+1.31 Deployment: A Good Order squad with a Good Order leader in the same Location may attempt, in their RPh, to split into Two equal HS by having that squad pass a leader-modified NTC [EXC: Finns (25.7), Guards, Carrier HS, unarmed unit (20.5), and U.S.M.C. 7-6-8s do not require leader direction to Deploy]. A leader may attempt to Deploy only one Good Order squad in that Location per RPh, and a squad may be subject o only one Deployment attempt per RPh (see also Setup Limitations; 2.9). A squad's possessions can be freely rearranged among its HS when Deployed. Regardless of the outcome, neither leader nor squad may attempt any other action in that RPh.
+
+1.32 Recombine: Any two Good Order HS of the same nationality with an identical Strength Factor may automatically Recombine as their sole action in that RPh into a squad of the same type and Class at the start of any RPh in which they occupy the same Location and terrain (see 2.8) with a friendly Good Order leader [EXC: Finns, Guards, Carrier HS and unarmed HS do not need leader presence to Recombine]. A fanatic HS and non-fanatic HS may Recombine, but the resulting Squad is not Fanatic. The sole activity of that leader during the RPh is to permit the Recombination of any eligible HS in his Location.
+
+1.4 Broken Side: The reverse of each Personnel unit [EXC: Hero (15.2); Japanese squads (G1.1) and leaders (G1.41)] is its broken side. A broken unit has one (leader), two (HS/crew), or three (squad) prone of kneeling silhouettes to identify its size. The large number in the lower right-hand corner is its broken Morale Level (see 10.4). If the broken Morale Level is encased in a square that unit is capable of Self-Rally (10.63). The smaller number in the upper left-hand corner is its Basic Point Value (BPV) for Battlefield Integrity and DYO uses. Broken units have no FP or Normal Range.
+
+1.5 Special Status: In addition to the capabilities given to an Infantry counter by its Strength Factor, a SSR or DYO purchase can specify that certain counters have unique capabilities due to their specialized role (H1.22-.24).
+
+1.6 Unit Size Number (US#): Each unit has an inherent Unit Size Number which approximates its relative size in terms of bulk, number of men, and/or difficulty to conceal which is used for certain rules. (Concealment, 12.12; Guarding Prisoners, 20.5; Set DC, 23.7). Personnel units have a US# equal to the number of silhouettes on their counter (SMC:1; Crew/HS:2, Squad:3). Horses and all other "?" counters have a US# of 4 as do their riders or attendant crews [EXC: Any vehicle or Gun classified as large or very large (red ", AF, or M#) has a US# of 5].
